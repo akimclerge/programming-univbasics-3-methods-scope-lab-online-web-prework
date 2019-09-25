@@ -10,8 +10,8 @@ def toadstool
 end
 
 def any_phrase
-  phrase = "It's Dangerous To Go Alone! Take This."
-  puts phrase
+  catch_phrase = "Do A Barrel Roll!"
+  puts catch_phrase
 end
 
 def link

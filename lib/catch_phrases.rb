@@ -10,6 +10,6 @@ def toadstool
 end
 
 def link
-  phrase = "Do A Barrel Roll!"
+  phrase = "puts out 'It's Dangerous To Go Alone! Take This.'"
   puts phrase
 end
